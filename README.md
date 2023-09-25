@@ -2,7 +2,7 @@
 
 This is a Simple Python Django Portolio.The portfolio is easy  just use "/admin"  to login into Django admin panel to change you personal info.
 
-![GitHub Logo](/images/pic1.png)
+![GitHub Logo]({% static 'images/IMG_8344 (1).jpg' %})
 
 
 ## Run these Commads
